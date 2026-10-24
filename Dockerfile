@@ -11,6 +11,7 @@ COPY pyproject.toml uv.lock .python-version ./
 RUN uv sync --frozen --no-dev
 
 # 2) Puis le code
+COPY app.py ./
 COPY .streamlit ./.streamlit
 
 # Utiliser directement le Python de l'environnement créé par uv
