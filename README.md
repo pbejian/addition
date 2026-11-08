@@ -1,6 +1,8 @@
 # Addition
 
-![Addition de deux nombres](docs/vignette.jpg)
+<p align="center">
+  <img src="docs/vignette.jpg" alt="Addition de deux nombres" width="480">
+</p>
 
 Mini-application Streamlit : deux nombres, un bouton, leur somme.
 
