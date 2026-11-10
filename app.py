@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Addition")
+st.title(":primary[Addition]")
 
 # Résultat : même couleur que le texte normal, en gras
 st.markdown("""
