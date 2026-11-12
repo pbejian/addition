@@ -10,7 +10,8 @@ Elle sert surtout à valider de bout en bout la chaîne de déploiement :
 du code Python au conteneur Docker, servi en HTTPS sur mon propre serveur.
 
 - **Démo en ligne :** https://addition.bejian.fr
-- **Portfolio :** https://bejian.fr
+- **Page du projet dans mon portfolio :** https://www.bejian.fr/project/addition
+- **Portfolio :** https://www.bejian.fr
 
 ## Lancer en local
 
